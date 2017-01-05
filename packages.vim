@@ -18,5 +18,7 @@ Bundle "pangloss/vim-javascript"
 Bundle 'vim-scripts/AutoTag'
 Bundle 'swiftstack/syntastic.git'
 
+Plugin 'rust-lang/rust.vim'
+
 " My install of Conque-Shell seemed broken
 " Bundle 'vim-scripts/Conque-Shell'
