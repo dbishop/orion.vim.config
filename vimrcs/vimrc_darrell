@@ -86,6 +86,14 @@ else
 endif
 colorscheme molokai
 
+" MiniBufExpl Colors
+hi MBENormal               guifg=#808080 guibg=bg
+hi MBEChanged              guifg=#CD5907 guibg=bg
+hi MBEVisibleNormal        guifg=#5DC2D6 guibg=bg
+hi MBEVisibleChanged       guifg=#F1266F guibg=bg
+hi MBEVisibleActiveNormal  guifg=#A6DB29 guibg=bg
+hi MBEVisibleActiveChanged guifg=#F1266F guibg=bg
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Backup to ~/.tmp 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
