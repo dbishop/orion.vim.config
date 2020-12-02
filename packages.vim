@@ -3,7 +3,7 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
-Bundle 'sontek/minibufexpl.vim'
+Bundle 'fholgado/minibufexpl.vim'
 Bundle 'ervandew/supertab'
 Bundle 'vim-scripts/The-NERD-tree'
 Bundle 'swiftstack/UltiSnips'
@@ -12,11 +12,13 @@ Bundle 'tpope/vim-surround'
 Bundle 'tpope/vim-repeat'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'kien/ctrlp.vim'
-Bundle 'edsono/vim-matchit'
+Bundle 'andymass/vim-matchup'
 Bundle 'vim-scripts/python_match.vim'
 Bundle "pangloss/vim-javascript"
 Bundle 'vim-scripts/AutoTag'
 Bundle 'swiftstack/syntastic.git'
+
+Plugin 'rust-lang/rust.vim'
 
 " My install of Conque-Shell seemed broken
 " Bundle 'vim-scripts/Conque-Shell'
