@@ -6,7 +6,7 @@ Bundle 'gmarik/vundle'
 Bundle 'fholgado/minibufexpl.vim'
 Bundle 'ervandew/supertab'
 Bundle 'vim-scripts/The-NERD-tree'
-Bundle 'swiftstack/UltiSnips'
+Bundle 'vim-scripts/UltiSnips'
 Bundle 'wincent/Command-T'
 Bundle 'tpope/vim-surround'
 Bundle 'tpope/vim-repeat'
@@ -16,7 +16,7 @@ Bundle 'andymass/vim-matchup'
 Bundle 'vim-scripts/python_match.vim'
 Bundle "pangloss/vim-javascript"
 Bundle 'vim-scripts/AutoTag'
-Bundle 'swiftstack/syntastic.git'
+Bundle 'vim-syntastic/syntastic'
 
 Plugin 'rust-lang/rust.vim'
 
